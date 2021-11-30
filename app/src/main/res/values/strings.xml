@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomSearch</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Name">name</string>
+    <string name="PhoneNumber">phone </string>
+    <string name="Adress">adress</string>
+    <string name="How_Much_Rant">Rant</string>
+    <string name="Peopleno">peoplecount</string>
+</resources>

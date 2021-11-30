@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/RoomSearch/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2140625" />
+        <entry key="..\:/RoomSearch/app/src/main/res/drawable/editfor.xml" value="0.22395833333333334" />
+        <entry key="..\:/RoomSearch/app/src/main/res/drawable/gardiant.xml" value="0.22395833333333334" />
+        <entry key="..\:/RoomSearch/app/src/main/res/drawable/home.xml" value="0.22395833333333334" />
+        <entry key="..\:/RoomSearch/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1046875" />
+        <entry key="..\:/RoomSearch/app/src/main/res/drawable/ic_wave__10_.xml" value="0.18055555555555555" />
+        <entry key="..\:/RoomSearch/app/src/main/res/drawable/ic_wave__11_.xml" value="0.18055555555555555" />
+        <entry key="..\:/RoomSearch/app/src/main/res/drawable/icmanish.xml" value="0.2140625" />
+        <entry key="..\:/RoomSearch/app/src/main/res/drawable/splitwindowgradient.xml" value="0.18796296296296297" />
+        <entry key="..\:/RoomSearch/app/src/main/res/drawable/upload.xml" value="0.18796296296296297" />
+        <entry key="..\:/RoomSearch/app/src/main/res/layout/ExtraActivity.xml" value="0.27291666666666664" />
+        <entry key="..\:/RoomSearch/app/src/main/res/layout/activity_home.xml" value="0.27291666666666664" />
+        <entry key="..\:/RoomSearch/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/RoomSearch/app/src/main/res/layout/fragment_fatchimage.xml" value="0.1453125" />
+        <entry key="..\:/RoomSearch/app/src/main/res/layout/fragment_profile.xml" value="0.1453125" />
+        <entry key="..\:/RoomSearch/app/src/main/res/layout/fragment_upload.xml" value="0.1453125" />
+        <entry key="..\:/RoomSearch/app/src/main/res/layout/relative.xml" value="0.27291666666666664" />
+        <entry key="..\:/RoomSearch/app/src/main/res/menu/mani.xml" value="0.27291666666666664" />
+        <entry key="..\:/RoomSearch/app/src/main/res/menu/search.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
